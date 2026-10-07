@@ -18,7 +18,7 @@ Destaques:
 Requer apenas **Python 3**. Não há dependências externas, porque são usados só `argparse` e `heapq`, da biblioteca padrão.
 
 ```bash
-git clone https://github.com/boeckg/arvore-geradora-minima-kruskal-prim.git
+git clone https://github.com/boeckg/AP2G-Arvores-Geradoras.git
 cd arvore-geradora-minima-kruskal-prim
 ```
 
